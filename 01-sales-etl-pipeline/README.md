@@ -11,6 +11,13 @@ This project demonstrates a PySpark-based ETL pipeline built using Databricks Fr
 - Databricks Free Edition
 - Delta Lake
 
+- ## Project Notebook
+
+Explore the complete PySpark implementation, including data exploration, cleansing, joins, data-quality validation, exception handling, and Delta table creation.
+
+**[View the Sales Data ETL Notebook](notebooks/01_sales_data_exploration.ipynb)**
+
+
 ## Source Datasets
 
 The project uses three synthetic CSV datasets included in the [`data/sample/`](data/sample/) directory:
