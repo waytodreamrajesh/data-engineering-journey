@@ -1,0 +1,101 @@
+customer_id,customer_name,city,country
+CUST0001,Sai Sharma,Kochi,India
+CUST0002,Riya Khan,Hyderabad,India
+CUST0003,Ayaan Anderson,Delhi,India
+CUST0004,Noah Patel,Lucknow,India
+CUST0005,Priya Verma,Mumbai,India
+CUST0006,Reyansh Iyer,Hyderabad,India
+CUST0007,Liam Jones,Mumbai,India
+CUST0008,Sophia Iyer,,India
+CUST0009,Noah Bhat,Hyderabad,India
+CUST0010,Karan Brown,Chennai,India
+CUST0011,Aarav Taylor,Indore,India
+CUST0012,  Diya Wilson ,Pune,India
+CUST0013,Pooja Singh,Bengaluru,India
+CUST0014,Aadhya Taylor,Kolkata,India
+CUST0015,Muhammad Patel, Pune,India
+CUST0016,Muhammad Choudhury,Bhopal,India
+CUST0017,Vikram Jones,Chennai,India
+CUST0018,Aditya Anderson,Ahmedabad,India
+CUST0019,Noah Mehta,Visakhapatnam,
+CUST0020,Rahul Patel,Jaipur,India
+CUST0021,Fatima Moore,Chandigarh,India
+CUST0022,Isabella Martin,Bhopal,India
+CUST0023,Sneha Brown   ,Hyderabad,India
+CUST0024,Arjun Verma,Chandigarh,India
+CUST0025,Pari Taylor,Chennai,India
+CUST0026,Reyansh Jackson,Hyderabad,India
+CUST0027,Muhammad Joshi,Chennai,India
+CUST0028,Anjali Miller,Bhopal,India
+CUST0029,Sneha Nair,Kolkata,India
+CUST0030,Vikram Iyer,Chandigarh,India
+CUST0031,Riya Wilson,Visakhapatnam,India
+CUST0032,Arjun Jones,Chandigarh,India
+CUST0033,Diya Williams,Kochi,India
+CUST0034,Ananya Nair,Ahmedabad,India
+CUST0035,Rahul Singh,Visakhapatnam,India
+CUST0036,Sophia Khan,Chandigarh,India
+CUST0037,  Rohan Moore ,Indore,India
+CUST0038,Vihaan Khan,Bhopal,India
+CUST0039,Aditya Thomas,Kolkata,India
+CUST0040,Neha Singh,Delhi,India
+CUST0041,Aadhya Lee,Lucknow,India
+CUST0042,Rohan Iyer,,India
+CUST0043,Emma Joshi,Visakhapatnam,India
+CUST0044,Anjali Reddy,Chennai,India
+CUST0045,Ayaan Khan,Kochi,India
+CUST0046,Sophia Williams,Chennai,India
+CUST0047,Mia Bhat,Visakhapatnam,India
+CUST0048,Mia Joshi,Kolkata,India
+CUST0049,Pari Reddy,Jaipur,India
+CUST0050,Emma Patel,Indore,India
+CUST0051,Vihaan Jackson,Delhi,India
+CUST0052,Krishna Miller, Bengaluru,India
+CUST0053,Priya Jones,Delhi,India
+CUST0054,Rahul Joshi,Lucknow,India
+CUST0055,Anjali Johnson,Chennai,India
+CUST0056,Sophia Jackson,Mumbai,
+CUST0057,Sai Davis,Visakhapatnam,India
+CUST0058,Noah Taylor,Chennai,India
+CUST0059,Pooja Mehta,Chennai,India
+CUST0060,Priya Nair,Ahmedabad,India
+CUST0061,Aarav Anderson,Visakhapatnam,India
+CUST0062,Myra Johnson,Indore,India
+CUST0063,Saanvi Johnson,Visakhapatnam,India
+CUST0064,Muhammad Jackson,Chandigarh,India
+CUST0065,  Isha Moore ,Chandigarh,India
+CUST0066,Liam Jones,Hyderabad,India
+CUST0067,Krishna Choudhury,Indore,India
+CUST0068,Diya Williams,Indore,India
+CUST0069,Olivia Lee,Mumbai,India
+CUST0070,Ethan Das,Ahmedabad,India
+CUST0071,Vivaan Mehta,Visakhapatnam,India
+CUST0072,Sneha Martin,Bhopal,India
+CUST0073,Isha Khan,,India
+CUST0074,Vihaan Khan,Visakhapatnam,India
+CUST0075,Lucas Patel,Delhi,India
+CUST0076,Emma Moore,Delhi,India
+CUST0077,Noah Taylor,Bengaluru,India
+CUST0078,Ayaan Davis,Ahmedabad,India
+CUST0079,Sophia Nair   ,Chennai,India
+CUST0080,Olivia Jackson,Lucknow,India
+CUST0081,Priya Iyer,Visakhapatnam,India
+CUST0082,Noah Taylor,Kochi,India
+CUST0083,Aanya Wilson,Chennai,India
+CUST0084,Neha Davis,Chandigarh,India
+CUST0085,Sneha Menon,Visakhapatnam,India
+CUST0086,Olivia Menon,London,United Kingdom
+CUST0087,Ananya Khan,London,United Kingdom
+CUST0088,  Pooja Sharma ,Sydney,Australia
+CUST0089,Sophia Khan,Sydney,Australia
+CUST0090,Pari Sharma,London,United Kingdom
+CUST0091,Vihaan Khan,Delhi,
+CUST0092,Aditya Jackson,Singapore,Singapore
+CUST0093,Arjun Johnson,New York,United States
+CUST0094,Riya Davis, Dubai ,United Arab Emirates
+CUST0095,Aadhya Williams,New York,United States
+CUST0096,Lucas Brown,Dubai,United Arab Emirates
+CUST0097,Ananya Thomas,Dubai,United Arab Emirates
+CUST0098,Amit Iyer,London,United Kingdom
+CUST0099,Muhammad Davis,,
+CUST0100,Priya Choudhury,Dubai,United Arab Emirates

@@ -1,0 +1,31 @@
+product_id,product_name,category,unit_price
+PRD001,Wireless Noise-Canceling Headphones,Electronics,7999.00
+PRD002,Mechanical Gaming Keyboard,Electronics,4499.50
+PRD003,Ergonomic Optical Mouse,Electronics,1299.00
+PRD004,27-inch 4K UHD Monitor,Electronics,24999.99
+PRD005,Smartwatch Series 5,Electronics,15499.00
+PRD006,USB-C Multiport Adapter Hub,Electronics,2199.00
+PRD007,Portable Bluetooth Speaker,Electronics,3499.00
+PRD008,Ergonomic Mesh Office Chair,Furniture,11500.00
+PRD009,Solid Oak Study Desk,Furniture,16800.00
+PRD010,Adjustable Standing Desk Riser,Furniture,8990.00
+PRD011,3-Tier Wooden Bookshelf,Furniture,4200.00
+PRD012,Minimalist Coffee Table,Furniture,5499.00
+PRD013,Memory Foam Floor Recliner,Furniture,6300.00
+PRD014,Men's Slim Fit Cotton Chinos,Clothing,1799.00
+PRD015,Women's Waterproof Windbreaker,Clothing,2899.50
+PRD016,Unisex Classic Denim Jacket,Clothing,3299.00
+PRD017,Breathable Running T-Shirt,Clothing,899.00
+PRD018,Thermal Wool Winter Scarf,Clothing,1199.00
+PRD019,Formal Linen Button-Down Shirt,Clothing,2199.00
+PRD020,Digital Air Fryer 4.5L,Home Appliances,6499.00
+PRD021,Stainless Steel Electric Kettle,Home Appliances,1650.00
+PRD022,Smart Robotic Vacuum Cleaner,Home Appliances,22999.00
+PRD023,Compact Capsule Espresso Maker,Home Appliances,8999.00
+PRD024,HEPA Filter Air Purifier,Home Appliances,12499.00
+PRD025,Ionic Hair Dryer 1800W,Home Appliances,2499.00
+PRD026,Water-Resistant Laptop Backpack,Accessories,2299.00
+PRD027,Polarized Aviator Sunglasses,Accessories,1850.00
+PRD028,RFID Blocking Leather Wallet,Accessories,1250.00
+PRD029,Stainless Steel Insulated Flask,Accessories,999.00
+PRD030,Heavy Duty Canvas Tote Bag,Accessories,650.00
